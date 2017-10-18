@@ -1,4 +1,4 @@
-package com.example.mariana.agenda;
+package com.edu.rafaelsaito.debu;
 
 import android.content.Intent;
 import android.support.design.widget.TextInputEditText;
